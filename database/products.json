@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "6267a7fe692cd1f800d78b55"
+  },
+  "title": "Giày OLYMBR",
+  "desc": "Giày mới ra mắt, với thiết kế chất lượng. Mang đến cho người dùng trải nghiệm cực tốt.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-6-x400x400x4.webp"
+  ],
+  "size": "40",
+  "price": 400,
+  "createdAt": {
+    "$date": "2022-04-26T08:06:22.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:22:44.848Z"
+  },
+  "__v": 0,
+  "color": "Đen",
+  "categories": "Giày"
+},{
+  "_id": {
+    "$oid": "6267bc411bafa0b255f1e734"
+  },
+  "title": "Giày ADIASSA",
+  "desc": "Mang tới cho khách hàng sản phẩm chất lượng",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash06101/giay-nam-aristino-ASH06101x500x500x4.webp"
+  ],
+  "size": "41",
+  "price": 210,
+  "createdAt": {
+    "$date": "2022-04-26T09:32:49.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T03:14:29.538Z"
+  },
+  "__v": 0,
+  "color": "Đen",
+  "categories": "Giày"
+},{
+  "_id": {
+    "$oid": "6268d13b5f88494c7db36f0d"
+  },
+  "title": "Giày MLBNEW",
+  "desc": "Sản phẩm giày MLB ban chạy nhất trên cửa hàng, với bề ngoài cực kì đẹp",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Xanh",
+  "price": 299,
+  "createdAt": {
+    "$date": "2022-04-27T05:14:35.334Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T04:24:40.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64482760ee2eebf80d594f9c"
+  },
+  "title": "Giày OLYMBR2",
+  "desc": "Giày OLYMBR2",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash06301/Giay-nam-Aristino-ASH06301-16-1-x500x500x4.webp"
+  ],
+  "size": "39",
+  "color": "Đen",
+  "price": 360,
+  "createdAt": {
+    "$date": "2023-04-25T19:17:52.734Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T20:51:45.909Z"
+  },
+  "__v": 0,
+  "categories": "Giày"
+},{
+  "_id": {
+    "$oid": "64483ce9ee2eebf80d59509d"
+  },
+  "title": "Giày OLYMBR1",
+  "desc": "Sản phẩm mới, chất lượng tốt giúp khách hàng có trãi nghiệm tuyệt vời.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-6-x400x400x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "34",
+  "color": "Blu",
+  "price": 123,
+  "createdAt": {
+    "$date": "2023-04-25T20:49:45.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T20:50:37.495Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca590b08c9fa09ba769d4"
+  },
+  "title": "MLB VERSION",
+  "desc": "Sản phẩm mới, chất lượng tốt giúp khách hàng có trãi nghiệm tuyệt vời.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash08001/giay-nam-aristino-ASH08001x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "39",
+  "color": "Đen",
+  "price": 431,
+  "createdAt": {
+    "$date": "2023-04-29T05:05:20.045Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T05:14:31.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca67eb08c9fa09ba769e9"
+  },
+  "title": "MLB VERSIOK",
+  "desc": "Sản phẩm mới, chất lượng tốt giúp khách hàng có trãi nghiệm tuyệt vời.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash01209/giay-da-nam-aristino-ASH01209-02x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "39",
+  "color": "White",
+  "price": 450,
+  "createdAt": {
+    "$date": "2023-04-29T05:09:18.146Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T23:03:13.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca6d5b08c9fa09ba769f3"
+  },
+  "title": "Giày Da Nam",
+  "desc": "Sản phẩm mới, chất lượng tốt giúp khách hàng có trãi nghiệm tuyệt vời.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash00109/giay-da-nam-aristino-ASH00109-03x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "39",
+  "color": "Đen",
+  "price": 550,
+  "createdAt": {
+    "$date": "2023-04-29T05:10:45.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T05:10:45.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca81eb08c9fa09ba76a0f"
+  },
+  "title": "Giày Sneaker ",
+  "desc": "Giày mới ra mắt, với thiết kế chất lượng. Mang đến cho người dùng trải nghiệm cực tốt.",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash00809/giay-da-nam-aristino-ASH00809x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "41",
+  "color": "Đen",
+  "price": 600,
+  "createdAt": {
+    "$date": "2023-04-29T05:16:14.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T04:56:20.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca894b08c9fa09ba76a14"
+  },
+  "title": "Sneaker ASH",
+  "desc": "Mang tới cho khách hàng sản phẩm chất lượng",
+  "img": [
+    "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash00909/giay-da-nam-aristino-ASH00909-01x500x500x4.webp"
+  ],
+  "categories": "Giày",
+  "size": "40",
+  "color": "Trắng",
+  "price": 430,
+  "createdAt": {
+    "$date": "2023-04-29T05:18:12.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T23:03:57.230Z"
+  },
+  "__v": 0
+}]

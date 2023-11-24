@@ -1,0 +1,540 @@
+[{
+  "_id": {
+    "$oid": "6268adb0029550d268a65eab"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 4,
+  "title": "Áo Thun Cổ Tròn Tối Giản Ver12",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/1453a6bd-3792-0300-4dd3-001904648163.jpg?w=540&h=756",
+  "price": 150,
+  "createdAt": {
+    "$date": "2022-04-27T02:42:56.490Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T04:46:31.138Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268ca1b5f88494c7db36de8"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267bae11bafa0b255f1e721",
+  "quantity": 2,
+  "title": "Balo Big Thần Cổ Đại Horus Ver1",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-than-co-ai-horus-ver1-0020360/9daab7e0-2053-0700-cc2a-0018cfe9ac33.jpg?w=540&h=756",
+  "price": 399,
+  "createdAt": {
+    "$date": "2022-04-27T04:44:11.076Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T05:06:53.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268ce1e5f88494c7db36e85"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267bb1d1bafa0b255f1e726",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver2",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver2-0020369/b5b0c47d-7d23-0300-7330-0018d091e07d.jpg?w=540&h=756",
+  "price": 399,
+  "createdAt": {
+    "$date": "2022-04-27T05:01:18.724Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T05:01:18.724Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cf755f88494c7db36ed4"
+  },
+  "userId": "626193343fa4ce176047f63d",
+  "productId": "6267a7fe692cd1f800d78b55",
+  "quantity": 1,
+  "title": "Giày Casual Y Nguyên Bản Ver2",
+  "img": "https://cdn2.yame.vn/pimg/giay-casual-on-gian-y-nguyen-ban-ver2-0020431/6445fdad-c5fe-8200-f773-0018b78579ad.jpg?w=540&h=756",
+  "price": 400,
+  "createdAt": {
+    "$date": "2022-04-27T05:07:01.477Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T05:07:01.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269146971257604bd610504"
+  },
+  "userId": "6269143e71257604bd6104ef",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 2,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "price": 200,
+  "createdAt": {
+    "$date": "2022-04-27T10:01:13.339Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T10:01:22.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269185d71257604bd610559"
+  },
+  "userId": "6269183d71257604bd610548",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 5,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "price": 200,
+  "createdAt": {
+    "$date": "2022-04-27T10:18:05.871Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T10:18:21.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626922d14f21a6d2f7e10906"
+  },
+  "userId": "626920314f21a6d2f7e10891",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/8d37fdf7-e945-0200-a992-0019046480a2.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 150,
+  "createdAt": {
+    "$date": "2022-04-27T11:02:41.655Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T11:02:41.655Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626922f54f21a6d2f7e10912"
+  },
+  "userId": "626922e94f21a6d2f7e1090a",
+  "productId": "626838d214d84e2de84213a3",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Tối Giản",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-toi-gian-ver12-0020772/8d37fdf7-e945-0200-a992-0019046480a2.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 150,
+  "createdAt": {
+    "$date": "2022-04-27T11:03:17.601Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T11:03:17.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626931dd6b8aa3dce69311c5"
+  },
+  "userId": "626931d16b8aa3dce69311bd",
+  "productId": "6268d0625f88494c7db36ef5",
+  "quantity": 2,
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "img": "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+  "color": "Xám Trắng",
+  "size": "XL",
+  "price": 299,
+  "createdAt": {
+    "$date": "2022-04-27T12:06:53.049Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T13:24:44.092Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269588ec19025d6d113db65"
+  },
+  "userId": "6269582dc19025d6d113db41",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 3,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 200,
+  "createdAt": {
+    "$date": "2022-04-27T14:51:58.470Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T15:38:04.698Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626958a0c19025d6d113db77"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6268cff15f88494c7db36ef0",
+  "quantity": 1,
+  "title": "Áo Thun Cổ Tròn Linh Vật Tigeer",
+  "img": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-tigeer-ver4-0020756/4dccb47f-e51b-6000-0df9-0019046a4a8b.jpg?w=540&h=756",
+  "color": "Trắng",
+  "size": "XL",
+  "price": 200,
+  "createdAt": {
+    "$date": "2022-04-27T14:52:16.652Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T14:52:16.652Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626958b2c19025d6d113db84"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6268d0625f88494c7db36ef5",
+  "quantity": 1,
+  "title": "Sơ Mi Tay Ngắn Thần Cổ Đại Horus ",
+  "img": "https://cdn2.yame.vn/pimg/so-mi-tay-ngan-than-co-ai-horus-ver2-0020566/8e7d6e96-2911-0100-73f1-0018b7818792.jpg?w=540&h=756",
+  "color": "Xám Trắng",
+  "size": "XL",
+  "price": 299,
+  "createdAt": {
+    "$date": "2022-04-27T14:52:34.921Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T14:52:34.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269673960d34bb4d6e93592"
+  },
+  "userId": "6269582dc19025d6d113db41",
+  "productId": "6267bb4d1bafa0b255f1e729",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+  "color": "Hồng",
+  "size": "Free Size",
+  "price": 400,
+  "createdAt": {
+    "$date": "2022-04-27T15:54:33.387Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T15:54:33.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6269674560d34bb4d6e9359c"
+  },
+  "userId": "626957ccc19025d6d113db36",
+  "productId": "6267bb4d1bafa0b255f1e729",
+  "quantity": 1,
+  "title": "Balo Big Linh Vật Bbuff Ver4",
+  "img": "https://cdn2.yame.vn/pimg/balo-big-linh-vat-bbuff-ver4-0020371/ad62e417-86e8-0700-2f0b-0018cfeabe51.jpg?w=540&h=756",
+  "color": "Hồng",
+  "size": "Free Size",
+  "price": 400,
+  "createdAt": {
+    "$date": "2022-04-27T15:54:45.640Z"
+  },
+  "updatedAt": {
+    "$date": "2022-04-27T15:54:45.640Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644621712b31faf3d890e330"
+  },
+  "userId": "6445ae58bf4e0ffce82caf28",
+  "productId": "6267bc411bafa0b255f1e734",
+  "quantity": 1,
+  "title": "Giày ADIAS",
+  "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/347/092/products/reebok-club-c-double-shoes-gx7835-01.jpg",
+  "color": "Trắng",
+  "size": "41",
+  "price": 210,
+  "createdAt": {
+    "$date": "2023-04-24T06:28:01.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-24T06:28:01.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c8a86f5eaa6312cd45f78"
+  },
+  "userId": "6445aed4bf4e0ffce82caf3c",
+  "productId": "64483ce9ee2eebf80d59509d",
+  "quantity": 1,
+  "title": "Giày OLYMBR1",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-6-x400x400x4.webp",
+  "color": "Blu",
+  "size": "34",
+  "price": 123,
+  "createdAt": {
+    "$date": "2023-04-29T03:09:58.161Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T03:09:58.161Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ca92db08c9fa09ba76a1a"
+  },
+  "userId": "644c9f3954eab6f6d4ce69a1",
+  "productId": "644ca894b08c9fa09ba76a14",
+  "quantity": 1,
+  "title": "Sneaker ASH009",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash00909/giay-da-nam-aristino-ASH00909-01x500x500x4.webp",
+  "color": "Trắng",
+  "size": "40",
+  "price": 430,
+  "createdAt": {
+    "$date": "2023-04-29T05:20:45.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T05:20:45.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644caef0b08c9fa09ba76a20"
+  },
+  "userId": "644c9f3954eab6f6d4ce69a1",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 1,
+  "title": "Giày MLB NEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-04-29T05:45:20.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T05:45:20.421Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644f3d075234f8d17b5419b6"
+  },
+  "userId": "644c8bf1ae49fad27fdfbc10",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 1,
+  "title": "Giày MLB NEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-05-01T04:16:07.063Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T04:16:07.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644f3d0d5234f8d17b5419bc"
+  },
+  "userId": "644c8bf1ae49fad27fdfbc10",
+  "productId": "644ca67eb08c9fa09ba769e9",
+  "quantity": 2,
+  "title": "MLB VERSION1",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash01209/giay-da-nam-aristino-ASH01209-02x500x500x4.webp",
+  "color": "White",
+  "size": "39",
+  "price": 450,
+  "createdAt": {
+    "$date": "2023-05-01T04:16:13.927Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T04:22:32.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644f464c5234f8d17b5419e9"
+  },
+  "userId": "644c8bf1ae49fad27fdfbc10",
+  "productId": "6267bc411bafa0b255f1e734",
+  "quantity": 1,
+  "title": "Giày ADIASSA",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash06101/giay-nam-aristino-ASH06101x500x500x4.webp",
+  "color": "Đen",
+  "size": "41",
+  "price": 210,
+  "createdAt": {
+    "$date": "2023-05-01T04:55:40.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T04:55:40.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644f573f5234f8d17b541a0b"
+  },
+  "userId": "644ca078e498cedd279f134a",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 1,
+  "title": "Giày MLB NEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-05-01T06:07:59.402Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T06:07:59.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644f57445234f8d17b541a11"
+  },
+  "userId": "644ca078e498cedd279f134a",
+  "productId": "6267bc411bafa0b255f1e734",
+  "quantity": 1,
+  "title": "Giày ADIASSA",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash06101/giay-nam-aristino-ASH06101x500x500x4.webp",
+  "color": "Đen",
+  "size": "41",
+  "price": 210,
+  "createdAt": {
+    "$date": "2023-05-01T06:08:04.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T06:08:04.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff8de102f66ce9a40c0b2"
+  },
+  "userId": "644ff5c29cfe3d551706f3ed",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 2,
+  "title": "Giày MLB NEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-05-01T17:37:34.774Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T17:38:00.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff992d3123362a79b58cd"
+  },
+  "userId": "644ff989d3123362a79b58c7",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 2,
+  "title": "Giày MLB NEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-05-01T17:40:34.063Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T17:46:51.152Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fffcc6e46da82ac95f601"
+  },
+  "userId": "644ffb31d3123362a79b58da",
+  "productId": "644ca67eb08c9fa09ba769e9",
+  "quantity": 6,
+  "title": "MLB VERSION1",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash01209/giay-da-nam-aristino-ASH01209-02x500x500x4.webp",
+  "color": "White",
+  "size": "39",
+  "price": 450,
+  "createdAt": {
+    "$date": "2023-05-01T18:07:08.954Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T18:28:49.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451566776bdbda5f577a54b"
+  },
+  "userId": "644ffb31d3123362a79b58da",
+  "productId": "64482760ee2eebf80d594f9c",
+  "quantity": 1,
+  "title": "Giày OLYMBR2",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash06301/Giay-nam-Aristino-ASH06301-16-1-x500x500x4.webp",
+  "color": "Đen",
+  "size": "39",
+  "price": 360,
+  "createdAt": {
+    "$date": "2023-05-02T18:28:55.125Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T18:28:55.125Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645156a776bdbda5f577a551"
+  },
+  "userId": "644ffb31d3123362a79b58da",
+  "productId": "644ca894b08c9fa09ba76a14",
+  "quantity": 1,
+  "title": "Sneaker ASH0",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/giay-da/ash00909/giay-da-nam-aristino-ASH00909-01x500x500x4.webp",
+  "color": "Trắng",
+  "size": "40",
+  "price": 430,
+  "createdAt": {
+    "$date": "2023-05-02T18:29:59.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T18:29:59.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451a59676bdbda5f577a5ac"
+  },
+  "userId": "644ffb31d3123362a79b58da",
+  "productId": "6268d13b5f88494c7db36f0d",
+  "quantity": 4,
+  "title": "Giày MLBNEW",
+  "img": "https://aristino.com/Data/ResizeImage/images/product/gi%C3%A0y%20th%E1%BB%83%20thao%20-%20sneaker/ash06602/Giay-the-thao-nam-Aristino-ASH06602-2-x500x500x4.webp",
+  "color": "Xanh",
+  "size": "40",
+  "price": 299,
+  "createdAt": {
+    "$date": "2023-05-03T00:06:46.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T00:13:06.209Z"
+  },
+  "__v": 0
+}]
